@@ -2,7 +2,7 @@
 
 I build things at the intersection of ML research and systems engineering. Right now I'm focused on runtime safety for robot learning policies, temporal reasoning in language models, and biologically-inspired locomotion from real connectome data.
 
-**[neiltripathi.com](https://website-phi-tan-29.vercel.app)**
+**[neiltripathi.com](https://website-mauve-nine-60.vercel.app)**
 
 ## Current work
 
